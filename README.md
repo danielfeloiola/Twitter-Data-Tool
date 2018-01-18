@@ -2,7 +2,6 @@
 
 A ferramenta contém 4 arquivos princiapis:
 Mapeamento-Hashtags-2.ipynb, Mapeamento-Tweets.ipynb, Nuvem_de_palavras_3.ipynb e Trends-Map-2.ipynb.
-As outras versões dos arquivos não funcionam totalmente ou não tem todos os recursos.
 
 Mapeamento de Hashtags: coloca os tweets com dados de geolocalizacao em um mapa onde tais hashtags estao sendo utilizadas.
 
